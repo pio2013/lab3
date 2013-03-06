@@ -1,20 +1,20 @@
 1)  Git ustawienia globalne i lokalne:
 
-  a) W katalogu swojego projektu wpisz polecenia, uzupełniając odpowiednimi danymi:
+a) W katalogu swojego projektu wpisz polecenia, uzupełniając odpowiednimi danymi:
 	
     $ git config --local user.name "John Doe"
     $ git config --local user.email johndoe@example.com
 
-	b) Następnie sprawdź jaka jest różnica pomiędzy ustawieniami lokalnymi i globalnymi za pomocą poleceń
+b) Następnie sprawdź jaka jest różnica pomiędzy ustawieniami lokalnymi i globalnymi za pomocą poleceń
 
     $ git config --local user.name
     $ git config --global user.name 
 
 2) W katalogu projektu umieść plik z obrazkiem oraz katalog zawierający 2 dowolne pliki, nie commituj!  W głównym katalogu projektu umieść plik .gitignore z wpisami umożliwiającymi:
 
-  a) ignorowanie pliku obrazka wg rozszerzenia
+a) ignorowanie pliku obrazka wg rozszerzenia
 
-  b) ignorowanie zawartości dodanego przez ciebie katalogu
+b) ignorowanie zawartości dodanego przez ciebie katalogu
 
 3) Zapoznaj się z tekstem wykładu: http://io.ii.us.edu.pl/res/files/pio/vcs.git.II.pdf
 
