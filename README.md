@@ -1,3 +1,8 @@
+lab3
+====
+
+Ćwiczenia do wykonania na zajęciach PIO (08-03-2013)
+
 1)  Git ustawienia globalne i lokalne:
 
 a) W katalogu swojego projektu wpisz polecenia, uzupełniając odpowiednimi danymi:
